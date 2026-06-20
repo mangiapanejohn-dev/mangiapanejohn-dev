@@ -137,6 +137,7 @@ X × Discord × Reddit, rebuilt for students — the home feed you'll eventually
 <img src="https://img.shields.io/badge/Claude_Code-0D0A14?style=flat-square&logo=anthropic&logoColor=F472B6" alt="Claude Code"/>
 <img src="https://img.shields.io/badge/OpenAI_Codex-0D0A14?style=flat-square&logo=openai&logoColor=F472B6" alt="OpenAI Codex"/>
 <img src="https://img.shields.io/badge/Gemini_CLI-0D0A14?style=flat-square&logo=googlegemini&logoColor=F472B6" alt="Gemini CLI"/>
+<img src="https://img.shields.io/badge/Antigravity-0D0A14?style=flat-square&logoColor=F472B6" alt="Antigravity"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-0D0A14?style=flat-square&logo=githubcopilot&logoColor=F472B6" alt="GitHub Copilot"/>
 <img src="https://img.shields.io/badge/Cursor-0D0A14?style=flat-square&logo=cursor&logoColor=F472B6" alt="Cursor"/>
 <img src="https://img.shields.io/badge/Ollama-0D0A14?style=flat-square&logo=ollama&logoColor=F472B6" alt="Ollama"/>
