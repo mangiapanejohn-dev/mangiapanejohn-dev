@@ -13,7 +13,7 @@
 
 **Founder & Builder** &nbsp;·&nbsp; 15 &nbsp;·&nbsp; Earthlings
 
-I build AI products that read less like tools and more like the coworker you'd actually grab coffee with. The sign behind me says *No Leaning* — I tend to build things the same way: a step past where I'm supposed to be.
+Mark Ellington — call me **Marc**, or **BUG**. A vibe coder (a.k.a. silicon-based biological nutritionist) who feeds AI agents personality, memory, and the occasional bad idea, then pushes most of it to GitHub for you to fork and remix. Allergic to tedious process — I work solo, ship fast, and travel a lot. The sign behind me says *No Leaning*, which is roughly how I treat rules.
 
 <a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-EC4899?style=for-the-badge&logo=safari&logoColor=white" alt="website"/></a>
 <a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
@@ -24,7 +24,7 @@ I build AI products that read less like tools and more like the coworker you'd a
 </table>
 
 <a href="https://marcyy.me">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=F472B6&width=820&lines=Personality+isn't+a+prompt+skin.+It's+a+reasoning+parameter.;15%2C+building+the+company+I'd+actually+want+to+work+at.;Four+products+in+flight.+Sleep+sold+separately." alt="slogan"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=F472B6&width=820&lines=Mark+Ellington+-+call+me+Marc%2C+or+BUG.;Vibe+coder+and+silicon-based+nutritionist+(yes%2C+really).;INTJ.+Bad+at+small+talk%2C+fluent+in+shipping.;Allergic+to+tedious+rules.+I+work+solo+and+ship+fast.;Fork+it%2C+remix+it%2C+make+it+weird+-+it's+all+on+GitHub." alt="slogan"/>
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F472B6,100:EC4899&height=2" alt=""/>
