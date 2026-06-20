@@ -126,7 +126,7 @@ X × Discord × Reddit, rebuilt for students — the home feed you'll eventually
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,bun,python,rust,go,tauri,electron,tailwind,vite,postgres,supabase,redis,docker,vercel,githubactions,figma,git,github,vscode&theme=dark" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,html,css,react,nextjs,tailwind,vite,threejs,nodejs,bun,deno,tauri,electron,postgres,supabase,redis,prisma,docker,vercel,cloudflare,githubactions,git,github,vscode,figma,postman,linux,bash&perline=16&theme=dark" alt="stack"/>
 
 <br/><br/>
 
