@@ -2,18 +2,18 @@
 
 <table border="0">
 <tr>
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-<img src="https://marcyy.me/about-profile.jpg" width="100%" alt="Marc"/>
+<img src="https://github.com/user-attachments/assets/442dceb2-0320-45b4-a063-6ff37d404450" width="100%" alt="Marc"/>
 
 </td>
-<td width="60%" valign="middle">
+<td width="62%" valign="middle">
 
 # Marc
 
-**Founder & Builder** &nbsp;·&nbsp; 15 &nbsp;·&nbsp; China
+**Founder & Builder** &nbsp;·&nbsp; 15 &nbsp;·&nbsp; Earthlings
 
-I build AI products that try to feel less like tools and more like the coworker you actually like. The sign behind me says *No Leaning*. I build things the same way — somewhere just past where I'm supposed to.
+I build AI products that read less like tools and more like the coworker you'd actually grab coffee with. The sign behind me says *No Leaning* — I tend to build things the same way: a step past where I'm supposed to be.
 
 <a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-0a0a0a?style=for-the-badge&logo=safari&logoColor=white" alt="website"/></a>
 <a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
@@ -24,53 +24,53 @@ I build AI products that try to feel less like tools and more like the coworker 
 </table>
 
 <a href="https://marcyy.me">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=171717&width=820&lines=Personality+isn't+a+prompt+skin.+It's+a+reasoning+parameter.;15%2C+building+the+company+I'd+actually+want+to+work+at.;Four+products+in+flight.+Sleep+sold+separately." alt="slogan"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=8B8B8B&width=820&lines=Personality+isn't+a+prompt+skin.+It's+a+reasoning+parameter.;15%2C+building+the+company+I'd+actually+want+to+work+at.;Four+products+in+flight.+Sleep+sold+separately." alt="slogan"/>
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a1a&height=2" alt=""/>
 
 <br/>
 
-## Currently shipping
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%238b8b8b&width=24" height="22"/> &nbsp;Currently shipping
 
-Four products, one stubborn belief: the space between a human and an AI is the next platform — and most people are building it wrong.
+Four products, one stubborn thesis: the space between a human and an AI is the next platform — and most people are still building it like a chat box.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Pawly &nbsp;<sub>· AI Desktop Pet</sub>
+### <img src="https://api.iconify.design/lucide:paw-print.svg?color=%238b8b8b&width=20" height="18"/> Pawly &nbsp;<sub>· AI Desktop Pet</sub>
 
-A desktop companion that quietly takes over **Claude Code, Codex & Gemini CLI**. It does the agent-wrangling; you get to sit there looking like you've got it all under control.
+A desktop companion that quietly drives **Claude Code, Codex & Gemini CLI** in the background. It handles the agent orchestration; you handle looking unbothered while four terminals do your bidding.
 
 <sub>`Desktop` · `Code Agents` · `Human-AI`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### Resonix &nbsp;<sub>· AI Personality Engine</sub>
+### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%238b8b8b&width=20" height="18"/> Resonix &nbsp;<sub>· AI Personality Engine</sub>
 
-Personality isn't a skin you paint over a prompt — it's a reasoning parameter. Dynamic personas with real, multi-layer memory, so they remember what you said three weeks ago. For better or worse.
+Personality as a reasoning parameter — not a coat of paint over a prompt. Resonix runs dynamic personas on a multi-layer memory architecture (working context, long-term recall, persistent cache), so an agent stays *itself* across sessions instead of resetting the moment you close the tab.
 
-<sub>`Persona` · `Long-term Memory` · `Agents`</sub>
+<sub>`Dynamic Persona` · `Multi-layer Memory` · `Autonomous Agents`</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Horizon-AI &nbsp;<sub>· 72-Hour Startup Camp</sub>
+### <img src="https://api.iconify.design/lucide:sunrise.svg?color=%238b8b8b&width=20" height="18"/> Horizon-AI &nbsp;<sub>· 72-Hour Startup Camp</sub>
 
-Three days, questionable amounts of sleep, one company. A pressure cooker for young founders who treat "ship it" as a love language.
+Three days, one company, a legally questionable amount of coffee. A pressure cooker for young founders who treat *ship it* as a personality trait — idea to pitch before the weekend ends.
 
 <sub>`Startup` · `Youth` · `Social Impact`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### Discorver &nbsp;<sub>· Student Community</sub>
+### <img src="https://api.iconify.design/lucide:messages-square.svg?color=%238b8b8b&width=20" height="18"/> Discorver &nbsp;<sub>· Student Community</sub>
 
-X × Discord × Reddit, rebuilt for students — i.e. the feed you'll one day blame for your GPA. Worth it.
+X × Discord × Reddit, rebuilt for students — the home feed you'll eventually blame for your GPA and keep opening anyway. Built for the people actually in the group chat.
 
 <sub>`Community` · `Social` · `Students`</sub>
 
@@ -80,18 +80,18 @@ X × Discord × Reddit, rebuilt for students — i.e. the feed you'll one day bl
 
 <br/>
 
-## What I'm building toward
+## <img src="https://api.iconify.design/lucide:target.svg?color=%238b8b8b&width=24" height="22"/> &nbsp;What I'm building toward
 
 ```text
-→  Agents that feel less like tools and more like collaborators
-→  Memory that lets an AI personality persist, grow, and hold a grudge
+→  Agents that read less like tools and more like collaborators
+→  Memory that lets a personality persist, grow, and hold a grudge
 →  Communities where young builders ship instead of doomscroll
 →  Products with the taste of Linear and the depth of Anthropic
 ```
 
 <br/>
 
-## What I'm exploring
+## <img src="https://api.iconify.design/lucide:telescope.svg?color=%238b8b8b&width=24" height="22"/> &nbsp;What I'm exploring
 
 <div align="center">
 
@@ -101,9 +101,9 @@ X × Discord × Reddit, rebuilt for students — i.e. the feed you'll one day bl
 
 <br/>
 
-## The numbers
+## <img src="https://api.iconify.design/lucide:chart-no-axes-column.svg?color=%238b8b8b&width=24" height="22"/> &nbsp;By the numbers
 
-<sub>(I push to main on Fridays. I'm aware. We don't talk about it.)</sub>
+<sub>I push to main on Fridays. I'm aware. We've all made our peace with it.</sub>
 
 <div align="center">
 
@@ -118,7 +118,7 @@ X × Discord × Reddit, rebuilt for students — i.e. the feed you'll one day bl
 
 <br/>
 
-## Stack
+## <img src="https://api.iconify.design/lucide:layers-3.svg?color=%238b8b8b&width=24" height="22"/> &nbsp;Stack
 
 <div align="center">
 
@@ -128,15 +128,15 @@ X × Discord × Reddit, rebuilt for students — i.e. the feed you'll one day bl
 
 <br/>
 
-## Where the focus goes
+## <img src="https://api.iconify.design/lucide:crosshair.svg?color=%238b8b8b&width=24" height="22"/> &nbsp;Where the focus goes
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%"><b>Memory Systems</b><br/><sub>Resonix · making AI remember</sub></td>
-<td align="center" width="33%"><b>Agent Interfaces</b><br/><sub>Pawly · desktop meets CLI</sub></td>
-<td align="center" width="33%"><b>Founder Communities</b><br/><sub>Horizon · Discorver</sub></td>
+<td align="center" width="33%"><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%238b8b8b&width=22"/><br/><b>Memory Systems</b><br/><sub>Resonix · making AI remember</sub></td>
+<td align="center" width="33%"><img src="https://api.iconify.design/lucide:terminal.svg?color=%238b8b8b&width=22"/><br/><b>Agent Interfaces</b><br/><sub>Pawly · desktop meets CLI</sub></td>
+<td align="center" width="33%"><img src="https://api.iconify.design/lucide:users.svg?color=%238b8b8b&width=22"/><br/><b>Founder Communities</b><br/><sub>Horizon · Discorver</sub></td>
 </tr>
 </table>
 
@@ -148,5 +148,5 @@ X × Discord × Reddit, rebuilt for students — i.e. the feed you'll one day bl
 
 <div align="center">
   <br/>
-  <sub><b>Building my future company one commit at a time.</b> &nbsp;·&nbsp; Probably shipping something right now &nbsp;·&nbsp; <a href="https://marcyy.me">marcyy.me</a></sub>
+  <sub><b>Building my future company one commit at a time</b> &nbsp;—&nbsp; probably mid-deploy as you read this. &nbsp;·&nbsp; <a href="https://marcyy.me">marcyy.me</a></sub>
 </div>
