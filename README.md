@@ -112,17 +112,24 @@ X × Discord × Reddit, rebuilt for students — the home feed you'll eventually
 
 <br/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mangiapanejohn-dev&hide_border=true&background=0d0a14&stroke=2a1a2e&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=F9A8D4&dates=A78BB0&currStreakNum=ffffff&sideNums=F472B6" alt="streak"/>
+<table>
+<tr>
+<td valign="middle" width="64%">
 
-<br/><br/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mangiapanejohn-dev&hide_border=true&background=0d0a14&stroke=2a1a2e&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=F9A8D4&dates=A78BB0&currStreakNum=ffffff&sideNums=F472B6" alt="streak"/>
 
-<a href="https://github.com/mangiapanejohn-dev?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="84" alt="Starstruck achievement"/>
-</a>
+</td>
+<td valign="middle" width="36%" align="center">
 
-<br/>
+<a href="https://github.com/mangiapanejohn-dev?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="104" alt="Starstruck achievement"/></a>
 
-<sub><b>Starstruck</b> — turns out people liked the code enough to star it. I'm choosing to take that personally (in the good way).</sub>
+**Starstruck**
+
+<sub>People liked the code enough to star it. Taking it personally — in the good way.</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
