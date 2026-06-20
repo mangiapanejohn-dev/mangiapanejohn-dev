@@ -122,7 +122,30 @@ X × Discord × Reddit, rebuilt for students — the home feed you'll eventually
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,rust,tauri,electron,tailwind,postgres,supabase,docker,vercel,figma,git&theme=dark" alt="stack"/>
+<sub><b>LANGUAGES &amp; FRAMEWORKS</b></sub>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,bun,python,rust,go,tauri,electron,tailwind,vite,postgres,supabase,redis,docker,vercel,githubactions,figma,git,github,vscode&theme=dark" alt="stack"/>
+
+<br/><br/>
+
+<sub><b>AI &amp; AGENTS</b> — where I actually live</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Claude_Code-0D0A14?style=flat-square&logo=anthropic&logoColor=F472B6" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-0D0A14?style=flat-square&logo=openai&logoColor=F472B6" alt="OpenAI Codex"/>
+<img src="https://img.shields.io/badge/Gemini_CLI-0D0A14?style=flat-square&logo=googlegemini&logoColor=F472B6" alt="Gemini CLI"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-0D0A14?style=flat-square&logo=githubcopilot&logoColor=F472B6" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/Cursor-0D0A14?style=flat-square&logo=cursor&logoColor=F472B6" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Ollama-0D0A14?style=flat-square&logo=ollama&logoColor=F472B6" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Raycast-0D0A14?style=flat-square&logo=raycast&logoColor=F472B6" alt="Raycast"/>
+<img src="https://img.shields.io/badge/Hugging_Face-0D0A14?style=flat-square&logo=huggingface&logoColor=F472B6" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-0D0A14?style=flat-square&logo=langchain&logoColor=F472B6" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Perplexity-0D0A14?style=flat-square&logo=perplexity&logoColor=F472B6" alt="Perplexity"/>
+<img src="https://img.shields.io/badge/MCP-0D0A14?style=flat-square&logo=modelcontextprotocol&logoColor=F472B6" alt="Model Context Protocol"/>
+<img src="https://img.shields.io/badge/Vercel_AI_SDK-0D0A14?style=flat-square&logo=vercel&logoColor=F472B6" alt="Vercel AI SDK"/>
 
 </div>
 
