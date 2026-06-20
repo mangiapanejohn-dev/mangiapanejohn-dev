@@ -1,77 +1,78 @@
-<!-- Marc · Founder & Builder · profile readme -->
+<!-- Marc · Founder & Builder -->
 
-<!-- ░░░ HERO ░░░ -->
-<div align="center">
+<table border="0">
+<tr>
+<td width="40%" align="center">
 
-<img width="100%" src="./assets/banner.svg" alt="Marc — Founder & Builder"/>
+<img src="https://marcyy.me/about-profile.jpg" width="100%" alt="Marc"/>
 
-<br/><br/>
+</td>
+<td width="60%" valign="middle">
 
-<a href="https://marcyy.me">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&lines=Personality+is+not+a+prompt+skin.+It's+a+reasoning+parameter.;Shipping+the+company+I+want+to+work+at.;15.+Building+for+the+next+decade%2C+not+the+next+demo." alt="slogan"/>
-</a>
+# Marc
 
-<br/><br/>
+**Founder & Builder** &nbsp;·&nbsp; 15 &nbsp;·&nbsp; China
+
+I build AI products that try to feel less like tools and more like the coworker you actually like. The sign behind me says *No Leaning*. I build things the same way — somewhere just past where I'm supposed to.
 
 <a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-0a0a0a?style=for-the-badge&logo=safari&logoColor=white" alt="website"/></a>
 <a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <img src="https://komarev.com/ghpvc/?username=mangiapanejohn-dev&style=for-the-badge&color=0a0a0a&label=VISITORS" alt="visitors"/>
 
-</div>
+</td>
+</tr>
+</table>
 
-<br/>
+<a href="https://marcyy.me">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=171717&width=820&lines=Personality+isn't+a+prompt+skin.+It's+a+reasoning+parameter.;15%2C+building+the+company+I'd+actually+want+to+work+at.;Four+products+in+flight.+Sleep+sold+separately." alt="slogan"/>
+</a>
 
-<!-- ░░░ DIVIDER ░░░ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a1a&height=2" alt=""/>
 
 <br/>
 
-## ⌁ Currently Building
+## Currently shipping
 
-> Four products. One thesis: **the interface between humans and AI is the next platform.**
+Four products, one stubborn belief: the space between a human and an AI is the next platform — and most people are building it wrong.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 Pawly
-**AI Desktop Pet**
+### Pawly &nbsp;<sub>· AI Desktop Pet</sub>
 
-A desktop companion that takes over the loop with **Claude Code, Codex & Gemini CLI**. Your code agents, wrapped in something alive.
+A desktop companion that quietly takes over **Claude Code, Codex & Gemini CLI**. It does the agent-wrangling; you get to sit there looking like you've got it all under control.
 
-`Desktop` · `Code Agents` · `Human-AI`
+<sub>`Desktop` · `Code Agents` · `Human-AI`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Resonix
-**AI Personality Engine**
+### Resonix &nbsp;<sub>· AI Personality Engine</sub>
 
-Personality isn't a prompt skin — it's a reasoning parameter. Dynamic personas, multi-layer memory, autonomous agency.
+Personality isn't a skin you paint over a prompt — it's a reasoning parameter. Dynamic personas with real, multi-layer memory, so they remember what you said three weeks ago. For better or worse.
 
-`Persona` · `Long-term Memory` · `Agents`
+<sub>`Persona` · `Long-term Memory` · `Agents`</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 Horizon-AI
-**72h Extreme Startup Camp**
+### Horizon-AI &nbsp;<sub>· 72-Hour Startup Camp</sub>
 
-A pressure-cooker for young founders and creators. Idea → product → pitch in three days.
+Three days, questionable amounts of sleep, one company. A pressure cooker for young founders who treat "ship it" as a love language.
 
-`Startup` · `Youth` · `Social Impact`
+<sub>`Startup` · `Youth` · `Social Impact`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Discorver
-**Student Community Platform**
+### Discorver &nbsp;<sub>· Student Community</sub>
 
-X × Discord × Reddit, rebuilt for students. The home feed students actually want.
+X × Discord × Reddit, rebuilt for students — i.e. the feed you'll one day blame for your GPA. Worth it.
 
-`Community` · `Social` · `Students`
+<sub>`Community` · `Social` · `Students`</sub>
 
 </td>
 </tr>
@@ -79,18 +80,18 @@ X × Discord × Reddit, rebuilt for students. The home feed students actually wa
 
 <br/>
 
-## ⌁ What I'm Building Toward
+## What I'm building toward
 
 ```text
 →  Agents that feel less like tools and more like collaborators
-→  Memory systems that make AI personalities persist and grow
-→  Communities where young builders ship instead of scroll
-→  Products with the taste of Linear, the depth of Anthropic
+→  Memory that lets an AI personality persist, grow, and hold a grudge
+→  Communities where young builders ship instead of doomscroll
+→  Products with the taste of Linear and the depth of Anthropic
 ```
 
 <br/>
 
-## ⌁ What I'm Exploring
+## What I'm exploring
 
 <div align="center">
 
@@ -100,7 +101,9 @@ X × Discord × Reddit, rebuilt for students. The home feed students actually wa
 
 <br/>
 
-## ⌁ The Numbers
+## The numbers
+
+<sub>(I push to main on Fridays. I'm aware. We don't talk about it.)</sub>
 
 <div align="center">
 
@@ -115,7 +118,7 @@ X × Discord × Reddit, rebuilt for students. The home feed students actually wa
 
 <br/>
 
-## ⌁ Stack
+## Stack
 
 <div align="center">
 
@@ -125,15 +128,15 @@ X × Discord × Reddit, rebuilt for students. The home feed students actually wa
 
 <br/>
 
-## ⌁ Current Focus
+## Where the focus goes
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">🧠<br/><b>Memory Systems</b><br/><sub>Resonix · multi-layer cache</sub></td>
-<td align="center" width="33%">🐾<br/><b>Agent Interfaces</b><br/><sub>Pawly · desktop ↔ CLI</sub></td>
-<td align="center" width="33%">🌍<br/><b>Founder Communities</b><br/><sub>Horizon · Discorver</sub></td>
+<td align="center" width="33%"><b>Memory Systems</b><br/><sub>Resonix · making AI remember</sub></td>
+<td align="center" width="33%"><b>Agent Interfaces</b><br/><sub>Pawly · desktop meets CLI</sub></td>
+<td align="center" width="33%"><b>Founder Communities</b><br/><sub>Horizon · Discorver</sub></td>
 </tr>
 </table>
 
@@ -141,23 +144,9 @@ X × Discord × Reddit, rebuilt for students. The home feed students actually wa
 
 <br/>
 
-## ⌁ Open Source
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0a0a0a&height=2" alt=""/>
 
 <div align="center">
-
-I build in the open. Everything above is a real product I'm pushing toward people, not a portfolio piece.
-
-<a href="https://github.com/mangiapanejohn-dev?tab=repositories">
-  <img src="https://img.shields.io/badge/Browse_all_repositories-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="repos"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ░░░ FOOTER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=140&section=footer&text=Building%20my%20future%20company%2C%20one%20commit%20at%20a%20time.&fontSize=16&fontColor=a0a0a0&fontAlignY=72&animation=fadeIn" alt="footer"/>
-
-<div align="center">
-  <sub>Marc · Founder & Builder · <a href="https://marcyy.me">marcyy.me</a></sub>
+  <br/>
+  <sub><b>Building my future company one commit at a time.</b> &nbsp;·&nbsp; Probably shipping something right now &nbsp;·&nbsp; <a href="https://marcyy.me">marcyy.me</a></sub>
 </div>
