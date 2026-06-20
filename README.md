@@ -135,9 +135,9 @@ X × Discord × Reddit, rebuilt for students — the home feed you'll eventually
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Claude_Code-0D0A14?style=flat-square&logo=anthropic&logoColor=F472B6" alt="Claude Code"/>
-<img src="https://img.shields.io/badge/OpenAI_Codex-0D0A14?style=flat-square&logo=openai&logoColor=F472B6" alt="OpenAI Codex"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-0D0A14?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y0NzJCNiIgZD0iTTMgM2gxOGEyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJIM2EyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMlptNCA1TDUuNiA5LjQgOC4yIDEybC0yLjYgMi42TDcgMTZsNC00LTQtNFptNSA2LjVoNVYxM2gtNVoiLz48L3N2Zz4%3D" alt="OpenAI Codex"/>
 <img src="https://img.shields.io/badge/Gemini_CLI-0D0A14?style=flat-square&logo=googlegemini&logoColor=F472B6" alt="Gemini CLI"/>
-<img src="https://img.shields.io/badge/Antigravity-0D0A14?style=flat-square&logoColor=F472B6" alt="Antigravity"/>
+<img src="https://img.shields.io/badge/Antigravity-0D0A14?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y0NzJCNiIgZD0iTTEyIDJsMS45IDUuNkwxOS41IDlsLTUuNiAxLjlMMTIgMTZsLTEuOS01LjFMNC41IDlsNS42LTEuNEwxMiAyWm02IDEybC45IDIuNiAyLjYuOS0yLjYuOUwxOCAyMWwtLjktMi42TDE0LjUgMTdsMi42LS45TDE4IDE0WiIvPjwvc3ZnPg%3D%3D" alt="Antigravity"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-0D0A14?style=flat-square&logo=githubcopilot&logoColor=F472B6" alt="GitHub Copilot"/>
 <img src="https://img.shields.io/badge/Cursor-0D0A14?style=flat-square&logo=cursor&logoColor=F472B6" alt="Cursor"/>
 <img src="https://img.shields.io/badge/Ollama-0D0A14?style=flat-square&logo=ollama&logoColor=F472B6" alt="Ollama"/>
