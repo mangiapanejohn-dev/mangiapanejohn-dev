@@ -49,6 +49,26 @@ Mark Ellington — call me **Marc**, or **BUG**. A vibe coder (a.k.a. silicon-ba
 
 <br/>
 
+## <img src="https://api.iconify.design/lucide:gauge.svg?color=%23f472b6&width=24" height="22"/> &nbsp;Latest ship — QuotaLens
+
+A macOS menu-bar gauge for **Claude & Codex** usage — designed, built and open-sourced in a single weekend. Multiple Claude accounts via `setup-token`, authoritative rate-limit probes, and a ranged statistics window with a smooth trend chart.
+
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens">
+  <img src="https://github.com/mangiapanejohn-dev/QuotaLens/raw/main/docs/stats.gif" width="560" alt="QuotaLens statistics window"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens"><img src="https://img.shields.io/badge/Repo-QuotaLens-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a>
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens/releases/latest"><img src="https://img.shields.io/github/v/release/mangiapanejohn-dev/QuotaLens?style=for-the-badge&color=F472B6&label=release" alt="release"/></a>
+<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/QuotaLens?style=for-the-badge&color=DB2777&label=stars" alt="stars"/>
+
+<sub>`macOS` &nbsp;·&nbsp; `Swift` &nbsp;·&nbsp; `Menu-bar` &nbsp;·&nbsp; `Open Source` &nbsp;·&nbsp; `brew install --cask quotalens`</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F472B6,100:EC4899&height=2" alt=""/>
+
+<br/>
+
 ## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23f472b6&width=24" height="22"/> &nbsp;Currently shipping
 
 Four products, one stubborn thesis: the space between a human and an AI is the next platform — and most people are still building it like a chat box.
