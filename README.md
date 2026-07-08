@@ -25,6 +25,8 @@
 </picture>
 </a>
 
+<br/>
+
 <p>
 <a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-CC785C?style=for-the-badge&logo=safari&logoColor=white" alt="website"/></a>
 <a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-A6431F?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
