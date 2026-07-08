@@ -33,11 +33,12 @@
 
 Mark Ellington — call me **Marc**, **BUG**, or **ø**. A vibe coder (a.k.a. silicon-based biological nutritionist) who feeds AI agents personality, memory, and the occasional bad idea, then pushes most of it to GitHub for you to fork and remix. Allergic to tedious process — I work solo, ship fast, and travel a lot. The sign behind me says *No Leaning*, which is roughly how I treat rules.
 
-<a href="https://marcyy.me"><img src="https://img.shields.io/badge/%C3%B8-CC785C?style=for-the-badge&labelColor=CC785C" alt="ø"/></a>
-<a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-CC785C?style=for-the-badge&logo=safari&logoColor=white" alt="website"/></a>
-<a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-A6431F?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://x.com/MarcEllingtonl"><img src="https://img.shields.io/badge/X-262624?style=for-the-badge&logo=x&logoColor=CC785C" alt="x"/></a>
-<img src="https://komarev.com/ghpvc/?username=mangiapanejohn-dev&style=for-the-badge&color=CC785C&label=VISITORS" alt="visitors"/>
+<a href="https://marcyy.me"><img src="https://img.shields.io/badge/%C3%B8-CC785C?style=flat&labelColor=CC785C" alt="ø"/></a>
+<a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-CC785C?style=flat&logo=safari&logoColor=white" alt="website"/></a>
+<a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-A6431F?style=flat&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://x.com/MarcEllingtonl"><img src="https://img.shields.io/badge/X-262624?style=flat&logo=x&logoColor=CC785C" alt="x"/></a>
+<a href="mailto:mangiapanejohn@gmail.com"><img src="https://img.shields.io/badge/email-262624?style=flat&logo=gmail&logoColor=CC785C" alt="email"/></a>
+<img src="https://komarev.com/ghpvc/?username=mangiapanejohn-dev&style=flat&color=CC785C&label=visitors" alt="visitors"/>
 
 </td>
 </tr>
@@ -61,9 +62,9 @@ Mark Ellington — call me **Marc**, **BUG**, or **ø**. A vibe coder (a.k.a. si
 
 A macOS menu-bar gauge for **Claude & Codex** usage — designed, built and open-sourced in a single weekend. Multiple accounts via `setup-token`, authoritative rate-limit probes, and a ranged statistics window with a smooth trend chart.
 
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens"><img src="https://img.shields.io/badge/repo-QuotaLens-CC785C?style=flat-square&logo=github&logoColor=white" alt="repo"/></a>
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens/releases/latest"><img src="https://img.shields.io/github/v/release/mangiapanejohn-dev/QuotaLens?style=flat-square&color=CC785C&label=release" alt="release"/></a>
-<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/QuotaLens?style=flat-square&color=A6431F&label=%E2%98%85" alt="stars"/>
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens"><img src="https://img.shields.io/badge/repo-QuotaLens-CC785C?style=flat&logo=github&logoColor=white" alt="repo"/></a>
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens/releases/latest"><img src="https://img.shields.io/github/v/release/mangiapanejohn-dev/QuotaLens?style=flat&color=CC785C&label=release" alt="release"/></a>
+<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/QuotaLens?style=flat&color=A6431F&label=%E2%98%85" alt="stars"/>
 
 <sub>`macOS` &nbsp;·&nbsp; `Swift` &nbsp;·&nbsp; `brew install --cask quotalens`</sub>
 
@@ -74,8 +75,8 @@ A macOS menu-bar gauge for **Claude & Codex** usage — designed, built and open
 
 Gives **Claude Code** image-generation superpowers — a gpt-image-2 wrapper with transparent cutouts and a one-command `/image-c` key setup. Ship visuals without ever leaving the terminal.
 
-<a href="https://github.com/mangiapanejohn-dev/marcyy.me-claude-imagegen"><img src="https://img.shields.io/badge/repo-claude--imagegen-CC785C?style=flat-square&logo=github&logoColor=white" alt="repo"/></a>
-<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/marcyy.me-claude-imagegen?style=flat-square&color=A6431F&label=%E2%98%85" alt="stars"/>
+<a href="https://github.com/mangiapanejohn-dev/marcyy.me-claude-imagegen"><img src="https://img.shields.io/badge/repo-claude--imagegen-CC785C?style=flat&logo=github&logoColor=white" alt="repo"/></a>
+<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/marcyy.me-claude-imagegen?style=flat&color=A6431F&label=%E2%98%85" alt="stars"/>
 
 <sub>`Python` &nbsp;·&nbsp; `Claude Code` &nbsp;·&nbsp; `gpt-image-2`</sub>
 
@@ -101,7 +102,7 @@ A desktop companion that quietly drives **Claude Code, Codex & Gemini CLI** in t
 
 <sub>`Desktop` · `Code Agents` · `Human-AI`</sub>
 
-<a href="https://github.com/mangiapanejohn-dev/Pawly-Website"><img src="https://img.shields.io/badge/site-Pawly-CC785C?style=flat-square&logo=github&logoColor=white" alt="Pawly site"/></a>
+<a href="https://github.com/mangiapanejohn-dev/Pawly-Website"><img src="https://img.shields.io/badge/site-Pawly-CC785C?style=flat&logo=github&logoColor=white" alt="Pawly site"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -112,8 +113,8 @@ Personality as a reasoning parameter — not a coat of paint over a prompt. Reso
 
 <sub>`Dynamic Persona` · `Multi-layer Memory` · `Autonomous Agents`</sub>
 
-<a href="https://github.com/mangiapanejohn-dev/Resonix-AG"><img src="https://img.shields.io/badge/repo-Resonix--AG-CC785C?style=flat-square&logo=github&logoColor=white" alt="Resonix repo"/></a>
-<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/Resonix-AG?style=flat-square&color=A6431F&label=%E2%98%85" alt="Resonix stars"/>
+<a href="https://github.com/mangiapanejohn-dev/Resonix-AG"><img src="https://img.shields.io/badge/repo-Resonix--AG-CC785C?style=flat&logo=github&logoColor=white" alt="Resonix repo"/></a>
+<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/Resonix-AG?style=flat&color=A6431F&label=%E2%98%85" alt="Resonix stars"/>
 
 </td>
 </tr>
@@ -126,7 +127,7 @@ Three days, one company, a legally questionable amount of coffee. A pressure coo
 
 <sub>`Startup` · `Youth` · `Social Impact`</sub>
 
-<img src="https://img.shields.io/badge/status-private_beta-A6431F?style=flat-square" alt="private beta"/>
+<img src="https://img.shields.io/badge/status-private_beta-A6431F?style=flat" alt="private beta"/>
 
 </td>
 <td width="50%" valign="top">
@@ -137,7 +138,7 @@ X × Discord × Reddit, rebuilt for students — the home feed you'll eventually
 
 <sub>`Community` · `Social` · `Students`</sub>
 
-<img src="https://img.shields.io/badge/status-private_beta-A6431F?style=flat-square" alt="private beta"/>
+<img src="https://img.shields.io/badge/status-private_beta-A6431F?style=flat" alt="private beta"/>
 
 </td>
 </tr>
@@ -151,11 +152,11 @@ X × Discord × Reddit, rebuilt for students — the home feed you'll eventually
 
 A big chunk of what I build plugs straight into Claude — tools, clients, and lists I actually use every day.
 
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens"><img src="https://img.shields.io/badge/QuotaLens-Claude_quota_gauge-CC785C?style=flat-square&logo=anthropic&logoColor=white" alt="QuotaLens"/></a>
-<a href="https://github.com/mangiapanejohn-dev/marcyy.me-claude-imagegen"><img src="https://img.shields.io/badge/claude--imagegen-Claude_Code_image_gen-CC785C?style=flat-square&logo=anthropic&logoColor=white" alt="claude-imagegen"/></a>
-<a href="https://github.com/mangiapanejohn-dev/-Re-Code"><img src="https://img.shields.io/badge/Re--Code-Claude_API_client-A6431F?style=flat-square&logo=anthropic&logoColor=white" alt="Re-Code"/></a>
-<a href="https://github.com/mangiapanejohn-dev/awesome-claude-code"><img src="https://img.shields.io/badge/awesome--claude--code-curated_list-262624?style=flat-square&logo=anthropic&logoColor=CC785C" alt="awesome-claude-code"/></a>
-<a href="https://github.com/mangiapanejohn-dev/homebrew-tap"><img src="https://img.shields.io/badge/homebrew--tap-brew_install-262624?style=flat-square&logo=homebrew&logoColor=CC785C" alt="homebrew-tap"/></a>
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens"><img src="https://img.shields.io/badge/QuotaLens-Claude_quota_gauge-CC785C?style=flat&logo=anthropic&logoColor=white" alt="QuotaLens"/></a>
+<a href="https://github.com/mangiapanejohn-dev/marcyy.me-claude-imagegen"><img src="https://img.shields.io/badge/claude--imagegen-Claude_Code_image_gen-CC785C?style=flat&logo=anthropic&logoColor=white" alt="claude-imagegen"/></a>
+<a href="https://github.com/mangiapanejohn-dev/-Re-Code"><img src="https://img.shields.io/badge/Re--Code-Claude_API_client-A6431F?style=flat&logo=anthropic&logoColor=white" alt="Re-Code"/></a>
+<a href="https://github.com/mangiapanejohn-dev/awesome-claude-code"><img src="https://img.shields.io/badge/awesome--claude--code-curated_list-262624?style=flat&logo=anthropic&logoColor=CC785C" alt="awesome-claude-code"/></a>
+<a href="https://github.com/mangiapanejohn-dev/homebrew-tap"><img src="https://img.shields.io/badge/homebrew--tap-brew_install-262624?style=flat&logo=homebrew&logoColor=CC785C" alt="homebrew-tap"/></a>
 
 <br/>
 
@@ -182,10 +183,10 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <div align="center">
 
-<a href="https://github.com/mangiapanejohn-dev?tab=followers"><img src="https://img.shields.io/github/followers/mangiapanejohn-dev?style=for-the-badge&logo=github&label=Followers&labelColor=262624&color=CC785C" alt="followers"/></a>
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens/stargazers"><img src="https://img.shields.io/github/stars/mangiapanejohn-dev/QuotaLens?style=for-the-badge&logo=github&label=QuotaLens&labelColor=262624&color=A6431F" alt="QuotaLens stars"/></a>
-<a href="https://github.com/mangiapanejohn-dev/Resonix-AG/stargazers"><img src="https://img.shields.io/github/stars/mangiapanejohn-dev/Resonix-AG?style=for-the-badge&logo=github&label=Resonix-AG&labelColor=262624&color=A6431F" alt="Resonix stars"/></a>
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens/releases/latest"><img src="https://img.shields.io/github/v/release/mangiapanejohn-dev/QuotaLens?style=for-the-badge&label=latest&labelColor=262624&color=CC785C" alt="QuotaLens release"/></a>
+<a href="https://github.com/mangiapanejohn-dev?tab=followers"><img src="https://img.shields.io/github/followers/mangiapanejohn-dev?style=flat&logo=github&label=Followers&labelColor=262624&color=CC785C" alt="followers"/></a>
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens/stargazers"><img src="https://img.shields.io/github/stars/mangiapanejohn-dev/QuotaLens?style=flat&logo=github&label=QuotaLens&labelColor=262624&color=A6431F" alt="QuotaLens stars"/></a>
+<a href="https://github.com/mangiapanejohn-dev/Resonix-AG/stargazers"><img src="https://img.shields.io/github/stars/mangiapanejohn-dev/Resonix-AG?style=flat&logo=github&label=Resonix-AG&labelColor=262624&color=A6431F" alt="Resonix stars"/></a>
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens/releases/latest"><img src="https://img.shields.io/github/v/release/mangiapanejohn-dev/QuotaLens?style=flat&label=latest&labelColor=262624&color=CC785C" alt="QuotaLens release"/></a>
 
 <br/><br/>
 
@@ -220,19 +221,19 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Claude_Code-262624?style=flat-square&logo=anthropic&logoColor=CC785C" alt="Claude Code"/>
-<img src="https://img.shields.io/badge/OpenAI_Codex-262624?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0NDNzg1QyIgZD0iTTMgM2gxOGEyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJIM2EyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMlptNCA1TDUuNiA5LjQgOC4yIDEybC0yLjYgMi42TDcgMTZsNC00LTQtNFptNSA2LjVoNVYxM2gtNVoiLz48L3N2Zz4%3D" alt="OpenAI Codex"/>
-<img src="https://img.shields.io/badge/Gemini_CLI-262624?style=flat-square&logo=googlegemini&logoColor=CC785C" alt="Gemini CLI"/>
-<img src="https://img.shields.io/badge/Antigravity-262624?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0NDNzg1QyIgZD0iTTEyIDJsMS45IDUuNkwxOS41IDlsLTUuNiAxLjlMMTIgMTZsLTEuOS01LjFMNC41IDlsNS42LTEuNEwxMiAyWm02IDEybC45IDIuNiAyLjYuOS0yLjYuOUwxOCAyMWwtLjktMi42TDE0LjUgMTdsMi42LS45TDE4IDE0WiIvPjwvc3ZnPg%3D%3D" alt="Antigravity"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-262624?style=flat-square&logo=githubcopilot&logoColor=CC785C" alt="GitHub Copilot"/>
-<img src="https://img.shields.io/badge/Cursor-262624?style=flat-square&logo=cursor&logoColor=CC785C" alt="Cursor"/>
-<img src="https://img.shields.io/badge/Ollama-262624?style=flat-square&logo=ollama&logoColor=CC785C" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Raycast-262624?style=flat-square&logo=raycast&logoColor=CC785C" alt="Raycast"/>
-<img src="https://img.shields.io/badge/Hugging_Face-262624?style=flat-square&logo=huggingface&logoColor=CC785C" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/LangChain-262624?style=flat-square&logo=langchain&logoColor=CC785C" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Perplexity-262624?style=flat-square&logo=perplexity&logoColor=CC785C" alt="Perplexity"/>
-<img src="https://img.shields.io/badge/MCP-262624?style=flat-square&logo=modelcontextprotocol&logoColor=CC785C" alt="Model Context Protocol"/>
-<img src="https://img.shields.io/badge/Vercel_AI_SDK-262624?style=flat-square&logo=vercel&logoColor=CC785C" alt="Vercel AI SDK"/>
+<img src="https://img.shields.io/badge/Claude_Code-262624?style=flat&logo=anthropic&logoColor=CC785C" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-262624?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0NDNzg1QyIgZD0iTTMgM2gxOGEyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJIM2EyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMlptNCA1TDUuNiA5LjQgOC4yIDEybC0yLjYgMi42TDcgMTZsNC00LTQtNFptNSA2LjVoNVYxM2gtNVoiLz48L3N2Zz4%3D" alt="OpenAI Codex"/>
+<img src="https://img.shields.io/badge/Gemini_CLI-262624?style=flat&logo=googlegemini&logoColor=CC785C" alt="Gemini CLI"/>
+<img src="https://img.shields.io/badge/Antigravity-262624?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0NDNzg1QyIgZD0iTTEyIDJsMS45IDUuNkwxOS41IDlsLTUuNiAxLjlMMTIgMTZsLTEuOS01LjFMNC41IDlsNS42LTEuNEwxMiAyWm02IDEybC45IDIuNiAyLjYuOS0yLjYuOUwxOCAyMWwtLjktMi42TDE0LjUgMTdsMi42LS45TDE4IDE0WiIvPjwvc3ZnPg%3D%3D" alt="Antigravity"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-262624?style=flat&logo=githubcopilot&logoColor=CC785C" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/Cursor-262624?style=flat&logo=cursor&logoColor=CC785C" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Ollama-262624?style=flat&logo=ollama&logoColor=CC785C" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Raycast-262624?style=flat&logo=raycast&logoColor=CC785C" alt="Raycast"/>
+<img src="https://img.shields.io/badge/Hugging_Face-262624?style=flat&logo=huggingface&logoColor=CC785C" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-262624?style=flat&logo=langchain&logoColor=CC785C" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Perplexity-262624?style=flat&logo=perplexity&logoColor=CC785C" alt="Perplexity"/>
+<img src="https://img.shields.io/badge/MCP-262624?style=flat&logo=modelcontextprotocol&logoColor=CC785C" alt="Model Context Protocol"/>
+<img src="https://img.shields.io/badge/Vercel_AI_SDK-262624?style=flat&logo=vercel&logoColor=CC785C" alt="Vercel AI SDK"/>
 
 </div>
 
