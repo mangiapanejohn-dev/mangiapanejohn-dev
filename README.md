@@ -18,30 +18,20 @@
 
 <!-- Marc · Founder & Builder -->
 
-<table border="0">
-<tr>
-<td width="38%" align="center">
+<a href="https://marcyy.me">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"/>
+  <img width="100%" src="./assets/hero-light.svg" alt="Marc — Founder & Builder · 15 · Earthlings. Vibe coder feeding AI agents personality and memory."/>
+</picture>
+</a>
 
-<img src="https://github.com/user-attachments/assets/442dceb2-0320-45b4-a063-6ff37d404450" width="100%" alt="Marc"/>
-
-</td>
-<td width="62%" valign="middle">
-
-# Marc
-
-**Founder & Builder** &nbsp;·&nbsp; 15 &nbsp;·&nbsp; Earthlings
-
-Mark Ellington — call me **Marc**, **BUG**, or **ø**. A vibe coder (a.k.a. silicon-based biological nutritionist) who feeds AI agents personality, memory, and the occasional bad idea, then pushes most of it to GitHub for you to fork and remix. Allergic to tedious process — I work solo, ship fast, and travel a lot. The sign behind me says *No Leaning*, which is roughly how I treat rules.
-
-<a href="https://marcyy.me"><img src="https://img.shields.io/badge/%C3%B8-CC785C?style=for-the-badge&labelColor=CC785C" alt="ø"/></a>
+<p>
 <a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-CC785C?style=for-the-badge&logo=safari&logoColor=white" alt="website"/></a>
 <a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-A6431F?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <a href="https://x.com/MarcEllingtonl"><img src="https://img.shields.io/badge/X-262624?style=for-the-badge&logo=x&logoColor=CC785C" alt="x"/></a>
+<a href="mailto:mangiapanejohn@gmail.com"><img src="https://img.shields.io/badge/email-262624?style=for-the-badge&logo=gmail&logoColor=CC785C" alt="email"/></a>
 <img src="https://komarev.com/ghpvc/?username=mangiapanejohn-dev&style=for-the-badge&color=CC785C&label=VISITORS" alt="visitors"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 <a href="https://marcyy.me">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=CC785C&width=820&lines=Mark+Ellington+-+call+me+Marc%2C+or+BUG.;Vibe+coder+and+silicon-based+nutritionist+(yes%2C+really).;INTJ.+Bad+at+small+talk%2C+fluent+in+shipping.;Allergic+to+tedious+rules.+I+work+solo+and+ship+fast.;Fork+it%2C+remix+it%2C+make+it+weird+-+it's+all+on+GitHub." alt="slogan"/>
@@ -51,7 +41,10 @@ Mark Ellington — call me **Marc**, **BUG**, or **ø**. A vibe coder (a.k.a. si
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:ship.svg?color=%23cc785c&width=24" height="22"/> &nbsp;Recently shipped — 最近两连发
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-recently-shipped-dark.svg"/>
+  <img width="100%" src="./assets/band-recently-shipped-light.svg" alt="Recently shipped"/>
+</picture>
 
 <table>
 <tr>
@@ -91,7 +84,10 @@ Gives **Claude Code** image-generation superpowers — a gpt-image-2 wrapper wit
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23cc785c&width=24" height="22"/> &nbsp;Currently shipping
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-currently-shipping-dark.svg"/>
+  <img width="100%" src="./assets/band-currently-shipping-light.svg" alt="Currently shipping"/>
+</picture>
 
 Four products, one stubborn thesis: the space between a human and an AI is the next platform — and most people are still building it like a chat box.
 
@@ -151,7 +147,10 @@ X × Discord × Reddit, rebuilt for students — the home feed you'll eventually
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:anchor.svg?color=%23cc785c&width=24" height="22"/> &nbsp;In the Claude ecosystem
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-claude-ecosystem-dark.svg"/>
+  <img width="100%" src="./assets/band-claude-ecosystem-light.svg" alt="In the Claude ecosystem"/>
+</picture>
 
 A big chunk of what I build plugs straight into Claude — tools, clients, and lists I actually use every day.
 
@@ -163,7 +162,10 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:target.svg?color=%23cc785c&width=24" height="22"/> &nbsp;What I'm building toward
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-building-toward-dark.svg"/>
+  <img width="100%" src="./assets/band-building-toward-light.svg" alt="What I'm building toward"/>
+</picture>
 
 ```text
 →  Agents that read less like tools and more like collaborators
@@ -180,7 +182,10 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:chart-no-axes-column.svg?color=%23cc785c&width=24" height="22"/> &nbsp;By the numbers
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-by-the-numbers-dark.svg"/>
+  <img width="100%" src="./assets/band-by-the-numbers-light.svg" alt="By the numbers"/>
+</picture>
 
 <sub>I push to main on Fridays. I'm aware. We've all made our peace with it.</sub>
 
@@ -208,7 +213,10 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:layers-3.svg?color=%23cc785c&width=24" height="22"/> &nbsp;Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-stack-dark.svg"/>
+  <img width="100%" src="./assets/band-stack-light.svg" alt="Stack"/>
+</picture>
 
 <div align="center">
 
