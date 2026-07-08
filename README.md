@@ -41,10 +41,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-recently-shipped-dark.svg"/>
-  <img width="100%" src="./assets/band-recently-shipped-light.svg" alt="Recently shipped"/>
-</picture>
+## <img src="./assets/o.svg" width="24" height="21" alt="ø"/> &nbsp;Recently shipped
 
 <table>
 <tr>
@@ -84,10 +81,7 @@ Gives **Claude Code** image-generation superpowers — a gpt-image-2 wrapper wit
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-currently-shipping-dark.svg"/>
-  <img width="100%" src="./assets/band-currently-shipping-light.svg" alt="Currently shipping"/>
-</picture>
+## <img src="./assets/o.svg" width="24" height="21" alt="ø"/> &nbsp;Currently shipping
 
 Four products, one stubborn thesis: the space between a human and an AI is the next platform — and most people are still building it like a chat box.
 
@@ -147,10 +141,7 @@ X × Discord × Reddit, rebuilt for students — the home feed you'll eventually
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-claude-ecosystem-dark.svg"/>
-  <img width="100%" src="./assets/band-claude-ecosystem-light.svg" alt="In the Claude ecosystem"/>
-</picture>
+## <img src="./assets/o.svg" width="24" height="21" alt="ø"/> &nbsp;In the Claude ecosystem
 
 A big chunk of what I build plugs straight into Claude — tools, clients, and lists I actually use every day.
 
@@ -162,10 +153,7 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-building-toward-dark.svg"/>
-  <img width="100%" src="./assets/band-building-toward-light.svg" alt="What I'm building toward"/>
-</picture>
+## <img src="./assets/o.svg" width="24" height="21" alt="ø"/> &nbsp;What I'm building toward
 
 ```text
 →  Agents that read less like tools and more like collaborators
@@ -182,10 +170,7 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-by-the-numbers-dark.svg"/>
-  <img width="100%" src="./assets/band-by-the-numbers-light.svg" alt="By the numbers"/>
-</picture>
+## <img src="./assets/o.svg" width="24" height="21" alt="ø"/> &nbsp;By the numbers
 
 <sub>I push to main on Fridays. I'm aware. We've all made our peace with it.</sub>
 
@@ -213,10 +198,7 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-stack-dark.svg"/>
-  <img width="100%" src="./assets/band-stack-light.svg" alt="Stack"/>
-</picture>
+## <img src="./assets/o.svg" width="24" height="21" alt="ø"/> &nbsp;Stack
 
 <div align="center">
 
