@@ -200,8 +200,8 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 <td valign="middle" width="64%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mangiapanejohn-dev&hide_border=true&background=262624&stroke=3A3835&ring=D97757&fire=C15F3C&currStreakLabel=D97757&sideLabels=E8E6DC&dates=B7B4A8&currStreakNum=ffffff&sideNums=D97757"/>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mangiapanejohn-dev&hide_border=true&background=F0EEE6&stroke=E4E0D5&ring=D97757&fire=C15F3C&currStreakLabel=C15F3C&sideLabels=262624&dates=6B6862&currStreakNum=262624&sideNums=D97757" alt="streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mangiapanejohn-dev&hide_border=true&background=262624&stroke=3A3835&ring=D97757&fire=C15F3C&currStreakLabel=D97757&sideLabels=E8E6DC&dates=B7B4A8&currStreakNum=ffffff&sideNums=D97757"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=mangiapanejohn-dev&hide_border=true&background=F0EEE6&stroke=E4E0D5&ring=D97757&fire=C15F3C&currStreakLabel=C15F3C&sideLabels=262624&dates=6B6862&currStreakNum=262624&sideNums=D97757" alt="streak"/>
 </picture>
 
 </td>
