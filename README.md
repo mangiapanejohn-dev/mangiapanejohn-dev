@@ -184,43 +184,21 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mangiapanejohn-dev&show_icons=true&hide_border=true&bg_color=262624&title_color=D97757&text_color=E8E6DC&icon_color=D97757&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mangiapanejohn-dev&show_icons=true&hide_border=true&bg_color=F0EEE6&title_color=C15F3C&text_color=262624&icon_color=D97757&include_all_commits=true&count_private=true" alt="stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mangiapanejohn-dev&layout=compact&hide_border=true&bg_color=262624&title_color=D97757&text_color=E8E6DC&langs_count=8"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangiapanejohn-dev&layout=compact&hide_border=true&bg_color=F0EEE6&title_color=C15F3C&text_color=262624&langs_count=8" alt="langs"/>
-</picture>
+<a href="https://github.com/mangiapanejohn-dev?tab=followers"><img src="https://img.shields.io/github/followers/mangiapanejohn-dev?style=for-the-badge&logo=github&label=Followers&labelColor=262624&color=D97757" alt="followers"/></a>
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens/stargazers"><img src="https://img.shields.io/github/stars/mangiapanejohn-dev/QuotaLens?style=for-the-badge&logo=github&label=QuotaLens&labelColor=262624&color=C15F3C" alt="QuotaLens stars"/></a>
+<a href="https://github.com/mangiapanejohn-dev/Resonix-AG/stargazers"><img src="https://img.shields.io/github/stars/mangiapanejohn-dev/Resonix-AG?style=for-the-badge&logo=github&label=Resonix-AG&labelColor=262624&color=C15F3C" alt="Resonix stars"/></a>
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens/releases/latest"><img src="https://img.shields.io/github/v/release/mangiapanejohn-dev/QuotaLens?style=for-the-badge&label=latest&labelColor=262624&color=D97757" alt="QuotaLens release"/></a>
 
-<br/>
-
-<table>
-<tr>
-<td valign="middle" width="64%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mangiapanejohn-dev&hide_border=true&background=262624&stroke=3A3835&ring=D97757&fire=C15F3C&currStreakLabel=D97757&sideLabels=E8E6DC&dates=B7B4A8&currStreakNum=ffffff&sideNums=D97757"/>
-  <img width="100%" src="https://streak-stats.demolab.com/?user=mangiapanejohn-dev&hide_border=true&background=F0EEE6&stroke=E4E0D5&ring=D97757&fire=C15F3C&currStreakLabel=C15F3C&sideLabels=262624&dates=6B6862&currStreakNum=262624&sideNums=D97757" alt="streak"/>
-</picture>
-
-</td>
-<td valign="middle" width="36%" align="center">
+<br/><br/>
 
 <sub><b>ACHIEVEMENTS</b></sub>
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="52" alt="Pair Extraordinaire"/></a><br/><sub>Pair&nbsp;Extraordinaire</sub></td>
-<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="52" alt="YOLO"/></a><br/><sub>YOLO</sub></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="52" alt="Quickdraw"/></a><br/><sub>Quickdraw</sub></td>
-<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="52" alt="Starstruck"/></a><br/><sub>Starstruck&nbsp;×2</sub></td>
-</tr>
-</table>
-
-</td>
+<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="56" alt="Pair Extraordinaire"/></a><br/><sub>Pair&nbsp;Extraordinaire</sub></td>
+<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="56" alt="YOLO"/></a><br/><sub>YOLO</sub></td>
+<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="56" alt="Quickdraw"/></a><br/><sub>Quickdraw</sub></td>
+<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="56" alt="Starstruck"/></a><br/><sub>Starstruck&nbsp;×2</sub></td>
 </tr>
 </table>
 
