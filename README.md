@@ -28,11 +28,11 @@
 <br/><br/><br/>
 
 <p>
-<a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-CC785C?style=for-the-badge&logo=safari&logoColor=white" alt="website"/></a>
-<a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-A6431F?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://x.com/MarcEllingtonl"><img src="https://img.shields.io/badge/X-262624?style=for-the-badge&logo=x&logoColor=CC785C" alt="x"/></a>
-<a href="mailto:mangiapanejohn@gmail.com"><img src="https://img.shields.io/badge/email-262624?style=for-the-badge&logo=gmail&logoColor=CC785C" alt="email"/></a>
-<img src="https://komarev.com/ghpvc/?username=mangiapanejohn-dev&style=for-the-badge&color=CC785C&label=VISITORS" alt="visitors"/>
+<a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-CC785C?style=flat&logo=safari&logoColor=white" alt="website"/></a>
+<a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-A6431F?style=flat&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://x.com/MarcEllingtonl"><img src="https://img.shields.io/badge/X-262624?style=flat&logo=x&logoColor=CC785C" alt="x"/></a>
+<a href="mailto:mangiapanejohn@gmail.com"><img src="https://img.shields.io/badge/email-262624?style=flat&logo=gmail&logoColor=CC785C" alt="email"/></a>
+<img src="https://komarev.com/ghpvc/?username=mangiapanejohn-dev&style=flat&color=CC785C&label=visitors" alt="visitors"/>
 </p>
 
 <a href="https://marcyy.me">
