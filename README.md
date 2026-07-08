@@ -18,28 +18,17 @@
 
 <!-- Marc · Founder & Builder -->
 
-<table border="0">
-<tr>
-<td width="38%" align="center">
-
-<img src="https://github.com/user-attachments/assets/442dceb2-0320-45b4-a063-6ff37d404450" width="100%" alt="Marc"/>
-
-</td>
-<td width="62%" valign="middle">
-
-# Marc
-
-**Founder & Builder** &nbsp;·&nbsp; 15 &nbsp;·&nbsp; Earthlings
-
-Mark Ellington — call me **Marc**, or **BUG**. A vibe coder (a.k.a. silicon-based biological nutritionist) who feeds AI agents personality, memory, and the occasional bad idea, then pushes most of it to GitHub for you to fork and remix. Allergic to tedious process — I work solo, ship fast, and travel a lot. The sign behind me says *No Leaning*, which is roughly how I treat rules.
+<!-- PROOF: theme-adaptive cream/charcoal SVG hero with embedded Fraunces -->
+<a href="https://marcyy.me">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"/>
+  <img width="100%" src="./assets/hero-light.svg" alt="Marc — Founder & Builder · 15 · Earthlings"/>
+</picture>
+</a>
 
 <a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-D97757?style=for-the-badge&logo=safari&logoColor=white" alt="website"/></a>
 <a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-C15F3C?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <img src="https://komarev.com/ghpvc/?username=mangiapanejohn-dev&style=for-the-badge&color=D97757&label=VISITORS" alt="visitors"/>
-
-</td>
-</tr>
-</table>
 
 <a href="https://marcyy.me">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=D97757&width=820&lines=Mark+Ellington+-+call+me+Marc%2C+or+BUG.;Vibe+coder+and+silicon-based+nutritionist+(yes%2C+really).;INTJ.+Bad+at+small+talk%2C+fluent+in+shipping.;Allergic+to+tedious+rules.+I+work+solo+and+ship+fast.;Fork+it%2C+remix+it%2C+make+it+weird+-+it's+all+on+GitHub." alt="slogan"/>
