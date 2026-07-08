@@ -75,10 +75,6 @@ Gives **Claude Code** image-generation superpowers — a gpt-image-2 wrapper wit
 </tr>
 </table>
 
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens">
-  <img src="https://github.com/mangiapanejohn-dev/QuotaLens/raw/main/docs/stats.gif" width="560" alt="QuotaLens statistics window"/>
-</a>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:CC785C,100:A6431F&height=2" alt=""/>
 
 <br/>
