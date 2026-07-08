@@ -207,11 +207,18 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 </td>
 <td valign="middle" width="36%" align="center">
 
-<a href="https://github.com/mangiapanejohn-dev?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="104" alt="Starstruck achievement"/></a>
+<sub><b>ACHIEVEMENTS</b></sub>
 
-**Starstruck**
-
-<sub>People liked the code enough to star it. Taking it personally — in the good way.</sub>
+<table>
+<tr>
+<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="52" alt="Pair Extraordinaire"/></a><br/><sub>Pair&nbsp;Extraordinaire</sub></td>
+<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="52" alt="YOLO"/></a><br/><sub>YOLO</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="52" alt="Quickdraw"/></a><br/><sub>Quickdraw</sub></td>
+<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="52" alt="Starstruck"/></a><br/><sub>Starstruck&nbsp;×2</sub></td>
+</tr>
+</table>
 
 </td>
 </tr>
