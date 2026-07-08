@@ -45,35 +45,19 @@
 
 ## <img src="./assets/o.svg" width="24" height="21" alt="ø"/> &nbsp;Recently shipped
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-quotalens-dark.svg"/>
+  <img width="100%" src="./assets/card-quotalens-light.svg" alt="QuotaLens — a macOS menu-bar gauge for Claude & Codex usage. Swift · macOS · ★172 · brew install --cask quotalens"/>
+</picture>
+</a>
 
-### <img src="https://api.iconify.design/lucide:gauge.svg?color=%23cc785c&width=20" height="18"/> <a href="https://github.com/mangiapanejohn-dev/QuotaLens">QuotaLens</a>
-
-A macOS menu-bar gauge for **Claude & Codex** usage — designed, built and open-sourced in a single weekend. Multiple accounts via `setup-token`, authoritative rate-limit probes, and a ranged statistics window with a smooth trend chart.
-
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens"><img src="https://img.shields.io/badge/repo-QuotaLens-CC785C?style=flat&logo=github&logoColor=white" alt="repo"/></a>
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens/releases/latest"><img src="https://img.shields.io/github/v/release/mangiapanejohn-dev/QuotaLens?style=flat&color=CC785C&label=release" alt="release"/></a>
-<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/QuotaLens?style=flat&color=A6431F&label=%E2%98%85" alt="stars"/>
-
-<sub>`macOS` &nbsp;·&nbsp; `Swift` &nbsp;·&nbsp; `brew install --cask quotalens`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide:image.svg?color=%23cc785c&width=20" height="18"/> <a href="https://github.com/mangiapanejohn-dev/marcyy.me-claude-imagegen">claude-imagegen</a>
-
-Gives **Claude Code** image-generation superpowers — a gpt-image-2 wrapper with transparent cutouts and a one-command `/image-c` key setup. Ship visuals without ever leaving the terminal.
-
-<a href="https://github.com/mangiapanejohn-dev/marcyy.me-claude-imagegen"><img src="https://img.shields.io/badge/repo-claude--imagegen-CC785C?style=flat&logo=github&logoColor=white" alt="repo"/></a>
-<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/marcyy.me-claude-imagegen?style=flat&color=A6431F&label=%E2%98%85" alt="stars"/>
-
-<sub>`Python` &nbsp;·&nbsp; `Claude Code` &nbsp;·&nbsp; `gpt-image-2`</sub>
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/mangiapanejohn-dev/marcyy.me-claude-imagegen">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-imagegen-dark.svg"/>
+  <img width="100%" src="./assets/card-imagegen-light.svg" alt="claude-imagegen — image generation for Claude Code. Python · Claude Code · gpt-image-2"/>
+</picture>
+</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:CC785C,100:A6431F&height=2" alt=""/>
 
@@ -83,57 +67,33 @@ Gives **Claude Code** image-generation superpowers — a gpt-image-2 wrapper wit
 
 Four products, one stubborn thesis: the space between a human and an AI is the next platform — and most people are still building it like a chat box.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/mangiapanejohn-dev/Pawly-Website">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-pawly-dark.svg"/>
+  <img width="100%" src="./assets/card-pawly-light.svg" alt="Pawly · AI Desktop Pet — drives Claude Code, Codex & Gemini CLI in the background"/>
+</picture>
+</a>
 
-### <img src="https://api.iconify.design/lucide:paw-print.svg?color=%23cc785c&width=20" height="18"/> <a href="https://github.com/mangiapanejohn-dev/Pawly-Website">Pawly</a> &nbsp;<sub>· AI Desktop Pet</sub>
+<a href="https://github.com/mangiapanejohn-dev/Resonix-AG">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-resonix-dark.svg"/>
+  <img width="100%" src="./assets/card-resonix-light.svg" alt="Resonix · AI Personality Engine — dynamic personas on a multi-layer memory architecture"/>
+</picture>
+</a>
 
-A desktop companion that quietly drives **Claude Code, Codex & Gemini CLI** in the background. It handles the agent orchestration; you handle looking unbothered while four terminals do your bidding.
+<a href="https://marcyy.me">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-horizon-dark.svg"/>
+  <img width="100%" src="./assets/card-horizon-light.svg" alt="Horizon-AI · 72-Hour Startup Camp — idea to pitch before the weekend ends"/>
+</picture>
+</a>
 
-<sub>`Desktop` · `Code Agents` · `Human-AI`</sub>
-
-<a href="https://github.com/mangiapanejohn-dev/Pawly-Website"><img src="https://img.shields.io/badge/site-Pawly-CC785C?style=flat&logo=github&logoColor=white" alt="Pawly site"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23cc785c&width=20" height="18"/> <a href="https://github.com/mangiapanejohn-dev/Resonix-AG">Resonix</a> &nbsp;<sub>· AI Personality Engine</sub>
-
-Personality as a reasoning parameter — not a coat of paint over a prompt. Resonix runs dynamic personas on a multi-layer memory architecture (working context, long-term recall, persistent cache), so an agent stays *itself* across sessions instead of resetting the moment you close the tab.
-
-<sub>`Dynamic Persona` · `Multi-layer Memory` · `Autonomous Agents`</sub>
-
-<a href="https://github.com/mangiapanejohn-dev/Resonix-AG"><img src="https://img.shields.io/badge/repo-Resonix--AG-CC785C?style=flat&logo=github&logoColor=white" alt="Resonix repo"/></a>
-<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/Resonix-AG?style=flat&color=A6431F&label=%E2%98%85" alt="Resonix stars"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide:sunrise.svg?color=%23cc785c&width=20" height="18"/> <a href="https://marcyy.me">Horizon-AI</a> &nbsp;<sub>· 72-Hour Startup Camp</sub>
-
-Three days, one company, a legally questionable amount of coffee. A pressure cooker for young founders who treat *ship it* as a personality trait — idea to pitch before the weekend ends.
-
-<sub>`Startup` · `Youth` · `Social Impact`</sub>
-
-<img src="https://img.shields.io/badge/status-private_beta-A6431F?style=flat" alt="private beta"/>
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide:messages-square.svg?color=%23cc785c&width=20" height="18"/> <a href="https://marcyy.me">DiscorverX</a> &nbsp;<sub>· Student Community</sub>
-
-X × Discord × Reddit, rebuilt for students — the home feed you'll eventually blame for your GPA and keep opening anyway. Built for the people actually in the group chat.
-
-<sub>`Community` · `Social` · `Students`</sub>
-
-<img src="https://img.shields.io/badge/status-private_beta-A6431F?style=flat" alt="private beta"/>
-
-</td>
-</tr>
-</table>
+<a href="https://marcyy.me">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-discorverx-dark.svg"/>
+  <img width="100%" src="./assets/card-discorverx-light.svg" alt="DiscorverX · Student Community — X × Discord × Reddit, rebuilt for students"/>
+</picture>
+</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:CC785C,100:A6431F&height=2" alt=""/>
 
@@ -191,14 +151,17 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <sub><b>ACHIEVEMENTS</b></sub>
 
-<table>
-<tr>
-<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="56" alt="Pair Extraordinaire"/></a><br/><sub>Pair&nbsp;Extraordinaire</sub></td>
-<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="56" alt="YOLO"/></a><br/><sub>YOLO</sub></td>
-<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="56" alt="Quickdraw"/></a><br/><sub>Quickdraw</sub></td>
-<td align="center"><a href="https://github.com/mangiapanejohn-dev?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="56" alt="Starstruck"/></a><br/><sub>Starstruck&nbsp;×2</sub></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/mangiapanejohn-dev?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="60" alt="Pair Extraordinaire"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mangiapanejohn-dev?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="60" alt="YOLO"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mangiapanejohn-dev?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="60" alt="Quickdraw"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mangiapanejohn-dev?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" height="60" alt="Starstruck ×2"/></a>
+<br/><br/>
+<sub>Pair&nbsp;Extraordinaire &nbsp;·&nbsp; YOLO &nbsp;·&nbsp; Quickdraw &nbsp;·&nbsp; Starstruck&nbsp;×2</sub>
+</p>
 
 </div>
 
