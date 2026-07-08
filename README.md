@@ -153,6 +153,10 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 
 <br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:CC785C,100:A6431F&height=2" alt=""/>
+
+<br/>
+
 ## <img src="./assets/o.svg" width="24" height="21" alt="ø"/> &nbsp;What I'm building toward
 
 ```text
@@ -167,6 +171,10 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 `AI Agents` &nbsp;·&nbsp; `Human-AI Interaction` &nbsp;·&nbsp; `Product Design` &nbsp;·&nbsp; `Startups` &nbsp;·&nbsp; `Open Source` &nbsp;·&nbsp; `Communities`
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:CC785C,100:A6431F&height=2" alt=""/>
 
 <br/>
 
@@ -195,6 +203,10 @@ A big chunk of what I build plugs straight into Claude — tools, clients, and l
 </table>
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:CC785C,100:A6431F&height=2" alt=""/>
 
 <br/>
 
