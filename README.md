@@ -16,13 +16,20 @@
   — Marc (a.k.a. BUG / ø)
 -->
 
-<!-- ø · Marc — one continuous Claude canvas, sliced into clickable strips -->
-<a href="https://marcyy.me"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-hero-dark.svg"/><img width="100%" src="./assets/s-hero-light.svg" alt="Marc — Founder & Builder · 15 · Earthlings. I build AI agents with personality and memory."/></picture></a>
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-quotalens-dark.svg"/><img width="100%" src="./assets/s-quotalens-light.svg" alt="Recently shipped — QuotaLens, a macOS menu-bar gauge for Claude & Codex usage"/></picture></a>
-<a href="https://github.com/mangiapanejohn-dev/marcyy.me-claude-imagegen"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-imagegen-dark.svg"/><img width="100%" src="./assets/s-imagegen-light.svg" alt="claude-imagegen — image generation for Claude Code"/></picture></a>
-<a href="https://github.com/mangiapanejohn-dev/Pawly-Website"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-pawly-dark.svg"/><img width="100%" src="./assets/s-pawly-light.svg" alt="Currently shipping — Pawly, an AI desktop pet"/></picture></a>
-<a href="https://github.com/mangiapanejohn-dev/Resonix-AG"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-resonix-dark.svg"/><img width="100%" src="./assets/s-resonix-light.svg" alt="Resonix — AI personality engine"/></picture></a>
-<a href="https://marcyy.me"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-hordis-dark.svg"/><img width="100%" src="./assets/s-hordis-light.svg" alt="Horizon-AI — 72-hour startup camp · DiscorverX — student community"/></picture></a>
-<a href="https://github.com/mangiapanejohn-dev?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-ecobuild-dark.svg"/><img width="100%" src="./assets/s-ecobuild-light.svg" alt="In the Claude ecosystem · What I'm building toward"/></picture></a>
-<a href="https://github.com/mangiapanejohn-dev?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-numbers-dark.svg"/><img width="100%" src="./assets/s-numbers-light.svg" alt="By the numbers — followers, stars, achievements"/></picture></a>
-<a href="https://marcyy.me"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-stack-dark.svg"/><img width="100%" src="./assets/s-stack-light.svg" alt="Stack — languages, frameworks, and AI agents"/></picture></a>
+<!-- ø · Marc — one continuous Claude canvas + a clickable icon bar -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/whole-dark.svg"/>
+  <img width="100%" src="./assets/whole-light.svg" alt="Marc — Founder & Builder · 15 · Earthlings. Recently shipped: QuotaLens, claude-imagegen. Currently shipping: Pawly, Resonix, Horizon-AI, DiscorverX. Building AI agents with personality and memory."/>
+</picture>
+
+<p align="center">
+<a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-EDEBE2?style=flat-square&logo=safari&logoColor=CC785C" alt="website"/></a>&nbsp;
+<a href="https://github.com/mangiapanejohn-dev"><img src="https://img.shields.io/badge/GitHub-EDEBE2?style=flat-square&logo=github&logoColor=CC785C" alt="github"/></a>&nbsp;
+<a href="https://x.com/MarcEllingtonl"><img src="https://img.shields.io/badge/@MarcEllingtonl-EDEBE2?style=flat-square&logo=x&logoColor=CC785C" alt="x"/></a>&nbsp;
+<a href="mailto:mangiapanejohn@gmail.com"><img src="https://img.shields.io/badge/email-EDEBE2?style=flat-square&logo=gmail&logoColor=CC785C" alt="email"/></a>&nbsp;
+<a href="https://github.com/mangiapanejohn-dev/QuotaLens"><img src="https://img.shields.io/badge/QuotaLens-EDEBE2?style=flat-square&logo=github&logoColor=CC785C" alt="QuotaLens"/></a>&nbsp;
+<a href="https://github.com/mangiapanejohn-dev/Resonix-AG"><img src="https://img.shields.io/badge/Resonix--AG-EDEBE2?style=flat-square&logo=github&logoColor=CC785C" alt="Resonix-AG"/></a>&nbsp;
+<a href="https://github.com/mangiapanejohn-dev/marcyy.me-claude-imagegen"><img src="https://img.shields.io/badge/claude--imagegen-EDEBE2?style=flat-square&logo=github&logoColor=CC785C" alt="claude-imagegen"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mangiapanejohn-dev&style=flat-square&color=EDEBE2&label=visitors&labelColor=EDEBE2" alt="visitors"/>
+</p>
