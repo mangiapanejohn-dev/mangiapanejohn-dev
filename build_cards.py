@@ -8,8 +8,8 @@ SERIF="'Fraunces',Georgia,'Times New Roman',serif"
 SANS ="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 MONO ="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace"
 THEMES={
- "light":dict(bg="#F0EEE6",border="#E1DCCE",ink="#1F1E1D",body="#3A3833",clay="#CC785C",meta="#8A8078"),
- "dark": dict(bg="#262624",border="#3A3835",ink="#F5F2EA",body="#C9C6BD",clay="#D98E6F",meta="#9A968C"),
+ "light":dict(bg="#F0EEE6",border="#CC785C",ink="#1F1E1D",body="#3A3833",clay="#CC785C",meta="#8A8078"),
+ "dark": dict(bg="#262624",border="#CC785C",ink="#F5F2EA",body="#C9C6BD",clay="#D98E6F",meta="#9A968C"),
 }
 def esc(s): return s.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
 def style(): return (f"<style>@font-face{{font-family:'Fraunces';font-style:normal;font-weight:700;"
