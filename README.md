@@ -17,7 +17,7 @@
 
 **Founder & Builder** &nbsp;·&nbsp; 15 &nbsp;·&nbsp; Earth
 
-I build AI products that feel less like software and more like something alive.
+I build agent systems, research tools, and products that try to make hard systems legible.
 
 Call me **Marc**, **BUG**, or **ø**. Bad at small talk. Good at shipping.
 
@@ -38,6 +38,20 @@ Call me **Marc**, **BUG**, or **ø**. Bad at small talk. Good at shipping.
 <tr>
 <td width="50%" valign="top">
 
+### <a href="https://github.com/mangiapanejohn-dev/MOBIUS-Searcher">MØBIUS-Searcher</a>
+
+**Real markets. Real transactions. Simulation first.**
+
+A Rust + Ratatui Solana arbitrage research tool that prices executable routes, builds real v0 transactions, simulates them on mainnet, and records why apparent edge disappears.
+
+<img src="https://img.shields.io/github/stars/mangiapanejohn-dev/MOBIUS-Searcher?style=flat&color=CC785C&label=stars" alt="MØBIUS-Searcher stars"/>
+<a href="https://github.com/mangiapanejohn-dev/MOBIUS-Searcher/blob/main/docs/PAPER_RUN.md"><img src="https://img.shields.io/badge/PAPER-3%2C091%20evaluations-A6431F?style=flat" alt="3,091 PAPER evaluations"/></a>
+
+<sub>Rust · Solana · Jupiter · Ratatui · execution research</sub>
+
+</td>
+<td width="50%" valign="top">
+
 ### <a href="https://github.com/mangiapanejohn-dev/QuotaLens">QuotaLens</a>
 
 **Know your AI limits before they stop you.**
@@ -50,6 +64,8 @@ A native macOS menu-bar gauge for Claude and Codex quotas, accounts, tokens, cos
 <sub>Swift · SwiftUI · local-first · Homebrew</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/mangiapanejohn-dev/Pawly-Website">Pawly</a>
@@ -76,19 +92,6 @@ Persistent memory, dynamic personality, browser automation, and reflection for a
 <img src="https://img.shields.io/github/stars/mangiapanejohn-dev/Resonix-AG?style=flat&color=CC785C&label=stars" alt="Resonix stars"/>
 
 <sub>TypeScript · Memory systems · Autonomous agents</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://horizon-startup.com">Horizon AI</a>
-
-**72 hours. One team. Ship something real.**
-
-An AI-native startup camp for young builders—from idea and user research to product and pitch.
-
-<a href="https://horizon-startup.com"><img src="https://img.shields.io/badge/role-CTO-A6431F?style=flat" alt="CTO"/></a>
-
-<sub>Startups · Community · Youth builders</sub>
 
 </td>
 </tr>
