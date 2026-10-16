@@ -71,6 +71,23 @@ So far: 3,091 evaluations, 2,333 mainnet simulations, [0 executable edges](https
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### <a href="https://github.com/maga2010org/hackathon-run">hackathon-run</a>
+
+**Ship the demo, not the dream.**
+
+A decision-making and execution system for hackathon teams under time pressure. Fifteen agent skills that cut scope, time-box the build, rehearse the demo, simulate the judges, and recover when the demo breaks on stage.
+
+<a href="https://github.com/maga2010org/hackathon-run/stargazers"><img src="https://img.shields.io/github/stars/maga2010org/hackathon-run?style=flat&color=CC785C&label=stars" alt="hackathon-run stars"/></a>
+<a href="https://github.com/maga2010org/hackathon-run/releases/latest"><img src="https://img.shields.io/github/v/release/maga2010org/hackathon-run?style=flat&color=A6431F&label=release" alt="hackathon-run release"/></a>
+<a href="https://www.npmjs.com/package/@hackathon-run/hackathon-run"><img src="https://img.shields.io/badge/npm-@hackathon--run-262624?style=flat&logo=npm&logoColor=CC785C" alt="npm package"/></a>
+
+<sub>TypeScript · agent skills · npm &nbsp;·&nbsp; built with Stephen under <a href="https://github.com/maga2010org">Stephen&amp;Marc</a></sub>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
