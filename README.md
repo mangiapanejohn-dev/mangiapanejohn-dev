@@ -39,7 +39,7 @@ Call me **Marc**, **BUG**, or **ø**. Bad at small talk. Good at shipping.
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/mangiapanejohn-dev/QuotaLens">QuotaLens</a>
+### <a href="https://github.com/Marc-VvV/QuotaLens">QuotaLens</a>
 
 **Know your AI limits before they stop you.**
 
@@ -47,8 +47,8 @@ A native macOS menu-bar gauge for Claude and Codex quotas, accounts, tokens, cos
 
 <sub><code>brew install --cask mangiapanejohn-dev/tap/quotalens</code></sub>
 
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens/stargazers"><img src="https://img.shields.io/github/stars/mangiapanejohn-dev/QuotaLens?style=flat&color=CC785C&label=stars" alt="QuotaLens stars"/></a>
-<a href="https://github.com/mangiapanejohn-dev/QuotaLens/releases/latest"><img src="https://img.shields.io/github/v/release/mangiapanejohn-dev/QuotaLens?style=flat&color=A6431F&label=release" alt="QuotaLens release"/></a>
+<a href="https://github.com/Marc-VvV/QuotaLens/stargazers"><img src="https://img.shields.io/github/stars/Marc-VvV/QuotaLens?style=flat&color=CC785C&label=stars" alt="QuotaLens stars"/></a>
+<a href="https://github.com/Marc-VvV/QuotaLens/releases/latest"><img src="https://img.shields.io/github/v/release/Marc-VvV/QuotaLens?style=flat&color=A6431F&label=release" alt="QuotaLens release"/></a>
 <a href="https://quotalens.fun"><img src="https://img.shields.io/badge/quotalens.fun-262624?style=flat&logo=safari&logoColor=CC785C" alt="quotalens.fun"/></a>
 
 <sub>Swift · SwiftUI · local-first · macOS 13+</sub>
