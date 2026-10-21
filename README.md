@@ -21,6 +21,8 @@ I build agent systems, research tools, and products that try to make hard system
 
 Call me **Marc**, **BUG**, or **ø**. Bad at small talk. Good at shipping.
 
+Just shipped: **[Mira Voss](https://github.com/mangiapanejohn-dev/mira-voss)**, an agent at your terminal with a story of her own.
+
 <a href="https://marcyy.me"><img src="https://img.shields.io/badge/marcyy.me-CC785C?style=flat&logo=safari&logoColor=white" alt="website"/></a>
 <a href="https://x.com/MarcEllingtonl"><img src="https://img.shields.io/badge/X-262624?style=flat&logo=x&logoColor=CC785C" alt="X"/></a>
 <a href="mailto:mangiapanejohn@gmail.com"><img src="https://img.shields.io/badge/email-262624?style=flat&logo=gmail&logoColor=CC785C" alt="email"/></a>
@@ -36,6 +38,30 @@ Call me **Marc**, **BUG**, or **ø**. Bad at small talk. Good at shipping.
 ## Selected work
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+<a href="https://github.com/mangiapanejohn-dev/mira-voss"><img src="assets/mira-voss.jpg" width="100%" alt="Mira Voss, the Cartographer of Rovelle: a girl with a short black-and-white bob at a harbor railing in a storm, and the command npm install -g mira-voss"/></a>
+
+### <a href="https://github.com/mangiapanejohn-dev/mira-voss">Mira Voss</a>
+
+**An agent with a face, a voice, and a story of her own.**
+
+A terminal agent that reads your project, edits files, runs commands and reports back, and asks before she changes anything. Sign in with the Claude or ChatGPT plan you already pay for, or with an API key: Anthropic, OpenAI, Gemini, OpenRouter, DeepSeek, Kimi, GLM, Qwen and more.
+
+She is also seventeen, a cartographer from the harbor city of Rovelle. Her two stories are published in [English and Chinese](https://mangiapanejohn-dev.github.io/mira-voss/stories.html).
+
+<sub><code>npm install -g mira-voss</code></sub>
+
+<a href="https://github.com/mangiapanejohn-dev/mira-voss/stargazers"><img src="https://img.shields.io/github/stars/mangiapanejohn-dev/mira-voss?style=flat&color=CC785C&label=stars" alt="Mira Voss stars"/></a>
+<a href="https://www.npmjs.com/package/mira-voss"><img src="https://img.shields.io/npm/v/mira-voss?style=flat&color=A6431F&label=npm" alt="Mira Voss on npm"/></a>
+<a href="https://mangiapanejohn-dev.github.io/mira-voss/"><img src="https://img.shields.io/badge/her_website-262624?style=flat&logo=safari&logoColor=CC785C" alt="Mira Voss website"/></a>
+<a href="https://mangiapanejohn-dev.github.io/mira-voss/stories.html"><img src="https://img.shields.io/badge/her_stories-262624?style=flat&logo=bookstack&logoColor=CC785C" alt="Mira Voss stories"/></a>
+
+<sub>TypeScript · Bun · a Rust kernel · macOS on Apple silicon · made by MØBIUS</sub>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -104,7 +130,7 @@ A decision-making and execution system for hackathon teams under time pressure. 
 <tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Built with</th></tr>
 <tr><td><b>Offmap-X</b></td><td>Site, applications, and event portal for a 72-hour offline builder event</td><td><sub>Next.js · Supabase</sub></td></tr>
 <tr><td><b>Weekly growth reports</b></td><td>What a school's teachers use every week to write student evaluations</td><td><sub>Next.js · Supabase · Turborepo</sub></td></tr>
-<tr><td><img src="assets/mobius-mark.png" width="18" align="absmiddle" alt=""/> <b>MØBIUS</b></td><td>Not telling yet. See photo.</td><td><sub>TypeScript · MCP</sub></td></tr>
+<tr><td><img src="assets/mobius-mark.png" width="18" align="absmiddle" alt=""/> <b>MØBIUS</b></td><td>The runtime under <a href="https://github.com/mangiapanejohn-dev/mira-voss">Mira Voss</a>. She shipped first; the rest follows.</td><td><sub>TypeScript · Rust · MCP</sub></td></tr>
 </table>
 
 ## The thesis
@@ -114,7 +140,7 @@ A decision-making and execution system for hackathon teams under time pressure. 
 
 I care about three things:
 
-- agents with memory, personality, and presence;
+- agents with memory, personality, and presence ([Mira](https://github.com/mangiapanejohn-dev/mira-voss) is the first);
 - products with taste, not feature noise;
 - communities where young builders ship instead of scroll.
 
@@ -126,7 +152,7 @@ I care about three things:
 <tr><td><b>Web</b></td><td><img src="https://img.shields.io/badge/Next.js-262624?style=flat&logo=nextdotjs&logoColor=CC785C" alt="Next.js"/> <img src="https://img.shields.io/badge/React-262624?style=flat&logo=react&logoColor=CC785C" alt="React"/> <img src="https://img.shields.io/badge/Astro-262624?style=flat&logo=astro&logoColor=CC785C" alt="Astro"/> <img src="https://img.shields.io/badge/Tailwind_CSS-262624?style=flat&logo=tailwindcss&logoColor=CC785C" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/shadcn%2Fui-262624?style=flat&logo=shadcnui&logoColor=CC785C" alt="shadcn/ui"/> <img src="https://img.shields.io/badge/Zod-262624?style=flat&logo=zod&logoColor=CC785C" alt="Zod"/></td></tr>
 <tr><td><b>Data & infra</b></td><td><img src="https://img.shields.io/badge/Supabase-262624?style=flat&logo=supabase&logoColor=CC785C" alt="Supabase"/> <img src="https://img.shields.io/badge/PostgreSQL-262624?style=flat&logo=postgresql&logoColor=CC785C" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/SQLite-262624?style=flat&logo=sqlite&logoColor=CC785C" alt="SQLite"/> <img src="https://img.shields.io/badge/Vercel-262624?style=flat&logo=vercel&logoColor=CC785C" alt="Vercel"/> <img src="https://img.shields.io/badge/Turborepo-262624?style=flat&logo=turborepo&logoColor=CC785C" alt="Turborepo"/> <img src="https://img.shields.io/badge/pnpm-262624?style=flat&logo=pnpm&logoColor=CC785C" alt="pnpm"/></td></tr>
 <tr><td><b>Systems & markets</b></td><td><img src="https://img.shields.io/badge/Tokio-262624?style=flat&logo=tokio&logoColor=CC785C" alt="Tokio"/> <img src="https://img.shields.io/badge/Ratatui-262624?style=flat&logo=ratatui&logoColor=CC785C" alt="Ratatui"/> <img src="https://img.shields.io/badge/Solana-262624?style=flat&logo=solana&logoColor=CC785C" alt="Solana"/></td></tr>
-<tr><td><b>Agents</b></td><td><img src="https://img.shields.io/badge/Claude_Code-262624?style=flat&logo=claude&logoColor=CC785C" alt="Claude Code"/> <img src="https://img.shields.io/badge/MCP-262624?style=flat&logo=modelcontextprotocol&logoColor=CC785C" alt="MCP"/> <img src="assets/badge-mobius-cli.svg" alt="MØBIUS-CLI"/></td></tr>
+<tr><td><b>Agents</b></td><td><img src="https://img.shields.io/badge/Claude_Code-262624?style=flat&logo=claude&logoColor=CC785C" alt="Claude Code"/> <img src="https://img.shields.io/badge/MCP-262624?style=flat&logo=modelcontextprotocol&logoColor=CC785C" alt="MCP"/> <img src="assets/badge-mobius-cli.svg" alt="MØBIUS-CLI"/> <a href="https://www.npmjs.com/package/mira-voss"><img src="https://img.shields.io/badge/Mira_Voss-262624?style=flat&logo=npm&logoColor=CC785C" alt="Mira Voss"/></a></td></tr>
 <tr><td><b>Tests</b></td><td><img src="https://img.shields.io/badge/Vitest-262624?style=flat&logo=vitest&logoColor=CC785C" alt="Vitest"/> <img src="https://img.shields.io/badge/Jest-262624?style=flat&logo=jest&logoColor=CC785C" alt="Jest"/></td></tr>
 </table>
 
